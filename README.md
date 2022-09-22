@@ -1,15 +1,14 @@
 ### Hi there 👋
+I am a Web developer from Rajkot, Gujarat, India.
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+
 
 <!--
 **mayurlavadiya/mayurlavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on .I am a self-taught Full-stack web/mobile developer from India.
-I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
-I have 5+ Years of experience in full-stack web-dev.
-
-
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,3 +17,5 @@ I have 5+ Years of experience in full-stack web-dev.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
