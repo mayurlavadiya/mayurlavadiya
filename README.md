@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a Web developer from Rajkot, Gujarat, India.
-I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, PHP or JavaScript.
 
 
 <!--
