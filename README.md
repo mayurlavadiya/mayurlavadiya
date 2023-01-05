@@ -44,9 +44,9 @@
 
 <hr>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurlavadiya&show_icons=true&locale=en&layout=compact" alt="mayurlavadiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurlavadiya&show_icons=true&locale=en&layout=compact" alt="mayurlavadiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurlavadiya&show_icons=true&locale=en" alt="mayurlavadiya" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurlavadiya&show_icons=true&locale=en" alt="mayurlavadiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurlavadiya&" alt="mayurlavadiya" /></p>
 
