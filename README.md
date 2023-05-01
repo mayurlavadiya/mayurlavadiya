@@ -20,8 +20,6 @@
 
 - 📫 Reach me out **https://www.instagram.com/_mayur.lavadiya__/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VWZ7TyoubmXSijPKmm0wCGPclJGvtf6W/view?usp=sharing](https://drive.google.com/file/d/1VWZ7TyoubmXSijPKmm0wCGPclJGvtf6W/view?usp=sharing)
-
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mayurlavadiya" alt="mayurlavadiya" /></a> </p>
