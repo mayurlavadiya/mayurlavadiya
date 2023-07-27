@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Something Cool!**
 
-- 🌱 I’m currently learning **PHP, LARAVEL, NODEJS, REACTJS.**
+- 🌱 I’m currently learning new technology like **PHP, LARAVEL, REACTJS.**
 
 - 👯 I’m looking to collaborate on **cool project.**
 
